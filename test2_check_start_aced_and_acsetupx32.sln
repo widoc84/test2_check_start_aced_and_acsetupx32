@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "test2_check_start_aced_and_acsetupx32", "test2_check_start_aced_and_acsetupx32\test2_check_start_aced_and_acsetupx32.pyproj", "{A25482B7-A2D3-404D-8C48-6DA6BCFD360C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25482B7-A2D3-404D-8C48-6DA6BCFD360C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25482B7-A2D3-404D-8C48-6DA6BCFD360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7ADB354-8AD8-4B82-AC6A-0321E1A9D790}
+	EndGlobalSection
+EndGlobal
